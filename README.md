@@ -28,6 +28,7 @@ Visit the client directly at http://localhost:8080/
 You can also visit the Eureka dashoboard again now and see it listed there.
 
 
+
 #### Spin up another client with a different name
 
 You can see that another client will be registred by doing the following:
